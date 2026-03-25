@@ -2,7 +2,14 @@
 Aquí teneís una comparativa rápida de uso de estado global con peticiones fetch en React.   
 Veremos desde la forma clásica (Redux) hasta la más actual (TanStack + Zustand) en comparativa.   
 En este repositorio tendréis un ejemplo completo de una carga de datos desde la API pública <a href="https://jsonplaceholder.typicode.com/">{JSON} Placeholder</a>.   
-El código está disponible para cada casuística en su carpeta correspondiente.   
+El código está disponible para cada casuística en su carpeta correspondiente.
+<div style="display:flex; gap:5px; height:40px;">
+    <img style="border-radius: 5px;" title="React logo" alt="React logo" src="https://images.seeklogo.com/logo-png/27/1/react-logo-png_seeklogo-273845.png"/>
+    <img style="border-radius: 5px;" title="Redux logo" alt="Redux logo" src="https://images.seeklogo.com/logo-png/28/1/redux-logo-png_seeklogo-284335.png"/>
+    <img style="border-radius: 5px;" title="Tanstack Query logo" alt="Tanstack Query logo" src="https://tanstack.com/images/logos/logo-color-100.png"/>
+    <img style="border-radius: 5px;" title="Zustand logo" alt="Zustand logo" src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg"/>
+</div>  
+<br>
 Si te gusta mi contenido, estrellita :)   
 
 
